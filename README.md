@@ -14,3 +14,9 @@ A projekt végére elértük, hogy egy egyszerű, ám informatív és esztétiku
 
 
 Felhasznált Források:
+Hellomiskolc.hu --- rossita-pizzeria_belsoter-asztalok-1.jpg
+rossita.hu --- rossita-etterem-kulso-1.jpg
+rossita.hu --- rossita-pizza-pizzak.jpg
+rossita.hu --- rossita-etterem-pincer-1.jpg
+pizzafalo.hu/etlap --- etlap-korona.jpg
+pizzafalo.hu/etlap --- itallap-korona.jpg
