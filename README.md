@@ -1,5 +1,7 @@
 Rossita nevű pizzéria weboldalát újradolgoztuk, hogy egy kifinomultabb és modernabb megjelenést adjunk neki. Az étterem honlapját újragondoltuk és újraterveztük, hogy jobban megfeleljen az aktuális elvárásoknak és trendeknek. Ez a projekt Rossita étterem online jelenlétének erősítésére és az üzleti sikerének elősegítésére irányult.
 
+Elérési útvonala: https://rossita0.wordpress.com/
+
 A hivatalos wordpress.com-ot választottuk, hogy megvalósítsuk a projektmunkát. Az elkészült honlap minden fontos részletet tartalmaz az étteremről. Az oldal megjelenését az "Assembler" nevű beépített sablon használatával tettük esztétikussá. Az étel- és italkínálat, az étterem alapadatai és a különböző szolgáltatások részletes bemutatásra kerültek. A navigációs menü segítségével könnyedén elérhetővé tettük ezeket az információkat, így a látogatók gyorsan és könnyen megtalálhatják az érdeklődési pontjaikat.
 
 Az elérhetőségek részénél kiemelt figyelmet fordítottunk arra, hogy a látogatók egyszerűen és gyorsan megtalálják az étterem pontos helyszínét. Egy térkép plugin integrálásával valós időben mutattuk meg az étterem helyzetét, a wordpress alap bővítményét használva (Jetpack pluginnel) ami könnyen navigálható a látogatók számára. Emellett törekedtünk az esztétikus elrendezésre és a megfelelő arányok megtartására az oldal minden részletében.
